@@ -1,0 +1,16 @@
+{
+  "viewportWidth": 1368,
+  "viewportHeight": 780,
+  "defaultCommandTimeout": 200000,
+  "pageLoadTimeout": 100000,
+  "video": false,
+  "projectId": "demo",
+  "reporterOptions": {
+    "overwrite": false,
+    "html": true,
+    "json": false
+  },
+  "env": {
+    "baseUrl": "https://www.google.com"
+  }
+}
