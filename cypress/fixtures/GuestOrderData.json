@@ -1,0 +1,24 @@
+{
+  "WelcomeMessage": "Welcome!",
+  "ProductPageTitle": "Lashes",
+  "EnterEmail": "testyounique5@xyz.com",
+  "EnterPassword": "Younique@2023",
+  "EnterVerifyPassword": "Younique@2023",
+  "Country": "U.S.A.",
+  "productsViewRoute": "/products/view/",
+  "cartRoute": "products/cart",
+  "recieptRoute": "account/receipt",
+  "shippingInformation": {
+    "fName": "fName",
+    "lName": "lName",
+    "email": "test@gmail.com",
+    "phone" : "2056267152",
+    "address1": "882 County Rd #459 Clanton",
+    "zipcode": "36750",
+    "state": "alabama",
+    "creditCardNo": "4111111111111111",
+    "cvv": "123",
+    "exp": "12/27",
+    "city": "city"
+  }
+}
