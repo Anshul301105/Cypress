@@ -1,14 +1,14 @@
 {
-  "EnterFirstName": "FN71",
-  "EnterLastName": "LN71",
-  "EnterEmail": "testyounique71@xyz.com",
-  "EnterPassword": "Younique@2023",
-  "EnterVerifyPassword": "Younique@2023",
-  "Country": "U.S.A.",
-  "phone": "2056267152",
-  "dob": "12121992",
-  "ad1": "882 County Rd #459 Clanton",
+    "EnterFirstName": "FN71",
+    "EnterLastName": "LN71",
+    "EnterEmail": "testyounique71@xyz.com",
+    "EnterPassword": "Younique@2023",
+    "EnterVerifyPassword": "Younique@2023",
+    "Country": "U.S.A.",
+    "phone": "2056267152",
+    "dob": "12121992",
+    "ad1": "882 County Rd #459 Clanton",
     "zipcode": "36750",
     "state": "alabama",
-    "city":"city"
+    "city": "city"
 }

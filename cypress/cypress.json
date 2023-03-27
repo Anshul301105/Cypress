@@ -1,24 +1,24 @@
 {
-  "viewportWidth": 1368,
-  "chromeWebSecurity": false,
-  "viewportHeight": 780,
-  "defaultCommandTimeout": 200000,
-  "pageLoadTimeout": 100000,
-  "projectId": "demo",
-  "reporter": "../node_modules/cypress-mochawesome-reporter",
-  "reporterOptions": {
-    "reportDir": "reports/mochawesome",
-    "charts": true,
-    "reportPageTitle": "YOUNIQUE AUTOMATION QA",
-    "embeddedScreenshots": true,
-    "inlineAssets": true,
-    "overwrite": false,
-    "html": true,
-    "json": false,
-    "video":true
-  },
-  "video": true,
-  "env": {
-    "baseUrl": "https://stagingbeta.youniqueproducts.com/account/register"
-  }
+    "viewportWidth": 1368,
+    "chromeWebSecurity": false,
+    "viewportHeight": 780,
+    "defaultCommandTimeout": 200000,
+    "pageLoadTimeout": 100000,
+    "projectId": "demo",
+    "reporter": "../node_modules/cypress-mochawesome-reporter",
+    "reporterOptions": {
+        "reportDir": "reports/mochawesome",
+        "charts": true,
+        "reportPageTitle": "YOUNIQUE AUTOMATION QA",
+        "embeddedScreenshots": true,
+        "inlineAssets": true,
+        "overwrite": false,
+        "html": true,
+        "json": false,
+        "video": true
+    },
+    "video": true,
+    "env": {
+        "baseUrl": "https://stagingbeta.youniqueproducts.com/account/register"
+    }
 }

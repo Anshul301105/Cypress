@@ -1,27 +1,27 @@
 {
-  "name": "cypressdemo",
-  "version": "1.0.0",
-  "description": "",
-  "main": "cypress.config.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ut05/cypress_demo.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ut05/cypress_demo/issues"
-  },
-  "homepage": "https://github.com/ut05/cypress_demo#readme",
-  "devDependencies": {
-    "@cypress/mocha-teamcity-reporter": "^1.0.0",
-    "cypress": "^12.3.0",
-    "cypress-mochawesome-reporter": "^3.2.3"
-  },
-  "dependencies": {
-    "mocha": "^10.2.0"
-  }
+    "name": "cypressdemo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "cypress.config.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ut05/cypress_demo.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ut05/cypress_demo/issues"
+    },
+    "homepage": "https://github.com/ut05/cypress_demo#readme",
+    "devDependencies": {
+        "@cypress/mocha-teamcity-reporter": "^1.0.0",
+        "cypress": "^12.3.0",
+        "cypress-mochawesome-reporter": "^3.2.3"
+    },
+    "dependencies": {
+        "mocha": "^10.2.0"
+    }
 }
